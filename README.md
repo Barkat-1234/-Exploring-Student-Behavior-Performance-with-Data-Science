@@ -1,6 +1,5 @@
 # -Exploring-Student-Behavior-Performance-with-Data-Science
 Overview
-
 This data science project investigates the relationship between student behavior, lifestyle choices, and academic performance using real-world inspired educational datasets. The analysis combines data wrangling, visualization, and structured querying to uncover actionable insights for educators, institutions, and researchers.
 🎯 Objectives
 
